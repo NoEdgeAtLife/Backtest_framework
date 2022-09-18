@@ -12,3 +12,7 @@ pip install autotrader
 ```
 from autotrader import AutoTrader
 ```
+
+```python
+python run.py <strategy_module_name>
+```
