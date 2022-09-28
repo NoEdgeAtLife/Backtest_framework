@@ -3,9 +3,6 @@
 # AutoTrader
 https://github.com/kieran-mackle/AutoTrader
 
-# Zipline
-https://github.com/quantopian/zipline
-
 #
 https://github.com/mementum/backtrader
 https://github.com/kernc/backtesting.py
